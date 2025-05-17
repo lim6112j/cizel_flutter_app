@@ -73,7 +73,7 @@ class _WebViewPageState extends State<WebViewPage> {
         ),
       )
       ..loadRequest(Uri.parse('http://10.0.2.2:7860'));
-      //..loadRequest(Uri.parse('http://localhost:7860'));
+      //..loadRequest(Uri.parse('http://127.0.0.1:7860'));
   }
 
   @override

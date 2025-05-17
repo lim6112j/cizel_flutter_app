@@ -3,7 +3,7 @@
     <application
         android:label="cizel_app"
         android:name="${applicationName}"
-        a2android:usesCleartextTraffic="true"
+        android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
 
         <activity
